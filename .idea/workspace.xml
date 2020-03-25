@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="init">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="создание класса DiscipGateway">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab_JavaFX/META-INF/lab_JavaFX.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab_JavaFX/views/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab_JavaFX/views/sample.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +198,7 @@
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1585023317081" duration="6681000" />
-      <workItem from="1585138627509" duration="2157000" />
+      <workItem from="1585138627509" duration="2780000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1585034099516</created>
@@ -205,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585034099517</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="создание класса SimpleGateway">
+      <created>1585151253052</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585151253052</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,17 +224,18 @@
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="создание класса SimpleGateway" />
+    <option name="LAST_COMMIT_MESSAGE" value="создание класса SimpleGateway" />
   </component>
   <component name="WindowStateProjectService">
     <state x="790" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1585151035052">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="790" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585151035052" />
-    <state x="333" y="0" key="CommitChangelistDialog2" timestamp="1585034092978">
+    <state x="46" y="0" key="CommitChangelistDialog2" timestamp="1585151728119">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="333" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585034092978" />
+    <state x="46" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585151728119" />
     <state x="765" y="119" key="FileChooserDialogImpl" timestamp="1585032552582">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
